@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="30dp"
+    tools:context="com.example.hp.implicitintentproject.MainActivity">
+
+ <Button
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="Open Google Map"
+     android:id="@+id/btn1"
+     android:textAllCaps="false"
+     android:textSize="20sp"
+     android:layout_marginBottom="40dp"
+     android:background="#4A148C"
+     android:textColor="#fff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Browser"
+        android:id="@+id/btn2"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginBottom="40dp"
+        android:background="#D81B60"
+        android:textColor="#fff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dial"
+        android:id="@+id/btn3"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginBottom="40dp"
+        android:background="#E53935"
+        android:textColor="#fff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Take Picture"
+        android:id="@+id/btn4"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginBottom="40dp"
+        android:background="#1E88E5"
+        android:textColor="#fff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Email"
+        android:id="@+id/btn5"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginBottom="40dp"
+        android:background="#FF9800"
+        android:textColor="#fff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Contacts"
+        android:id="@+id/btn6"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"
+        android:background="#00695C"
+        android:textColor="#fff"/>
+
+</LinearLayout>
