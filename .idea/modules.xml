@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ImplicitIntentProject.iml" filepath="$PROJECT_DIR$/ImplicitIntentProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ImplicitIntentProject-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ImplicitIntentProject-app.iml" group="ImplicitIntentProject/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Projects-ImplicitIntentProject.iml" filepath="$PROJECT_DIR$/.idea/modules/Projects-ImplicitIntentProject.iml" group="ImplicitIntentProject" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
